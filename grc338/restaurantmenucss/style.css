@@ -1,18 +1,16 @@
 /* CSS DOCUMENT*/
 
 body {
-  background-color: rgb(150,150,150);
+  background-color: rgb(224,255,255);
 }
 h1 {
   font-family: sans-serif;
   color: rgb(0,0,255);
   font-size: 3em;
-  background-color: rgb(255,255,255);
   padding: 1em 1em 1em 1em;
 }
 h2 {
   font-family: sans-serif;
-  color: rgb(255,255,255);
 }
 h3 {
   font-family: sans-serif;
