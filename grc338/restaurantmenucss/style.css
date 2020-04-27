@@ -1,4 +1,7 @@
+body {
+  background-color: rgb(150,150,150);
+}
 h1 {
-color: rgb(255,0,0);
+color: rgb(0,0,255);
 font-size: 3em;
 }
