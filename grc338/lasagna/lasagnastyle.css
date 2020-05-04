@@ -1,0 +1,101 @@
+/*CSS DOCUMENT*/
+
+img {
+width: 100%;}
+
+  @import url("https://use.typekit.net/tcz6oks.css");
+
+
+h1{font-family: bungee, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;}
+
+
+h2{font-family: bungee, sans-serif;
+
+font-weight: 200;
+
+font-style: normal;}
+
+
+h3{font-family: bungee, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;}
+
+
+h6{font-family: montserrat, sans-serif;
+
+font-weight: 200;
+
+font-style: normal;}
+
+
+p{font-family: montserrat, sans-serif;
+
+font-weight: 250;
+
+font-style: normal;
+    
+font-size:15pt;   
+
+width: 60%;
+
+}
+
+
+ol{font-family: montserrat, sans-serif;
+
+font-weight: 250;
+
+font-style: normal;}
+
+
+ul{font-family: montserrat, sans-serif;
+
+font-weight: 250;
+
+font-style: normal;}
+
+
+div.ingredients {
+    
+    width: 50%;
+    
+    float:left;
+}
+
+div.directions {
+    
+    width: 50%;
+    
+    float: left;    }
+
+footer {
+    
+    float:none;
+    
+    clear: both;}
+
+header {
+    
+    text-align: center;
+}
+
+div.maincontent {
+    
+    max-width: 70em;
+    margin:auto;}
+
+.intro p {
+    
+    max-width: 70em;
+    margin:auto
+}
+
+
+
+
