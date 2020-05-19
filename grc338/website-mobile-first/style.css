@@ -1,0 +1,83 @@
+/* CSS DOCUMENT*/
+
+img {
+    width: 100%;
+    
+}
+
+.logo {
+    width: 30%;
+    float: left;
+    margin: 0em;
+    padding: 0m;
+}
+
+body {
+    background-color: #F5F5DC;
+}
+
+h1 {
+    width: 20em;
+    font-size: em;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #8B4513;
+    
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 1em 0em 0em 0em;
+    
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 1em 0em 0em 0em;
+    
+}
+
+h4{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 1em 0em 0em 0em;
+    
+}
+
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 1em 0em 0em 0em;
+    
+}
+
+nav {
+    float: right;
+    padding-top: 1 em;
+}
+
+nav ul {
+    padding: 0em 0em 0em 0em;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin-right: 2em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: saddlebrown;
+}
+
+li {
+    list-style: none;
+    
+}
+
+.description {
+    font-style: italic;
+    }
